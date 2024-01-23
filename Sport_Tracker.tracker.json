@@ -1,0 +1,8 @@
+[{
+  "_id": {
+    "$oid": "65b0089e51647023cd348c85"
+  },
+  "EventName": "Riding my bike",
+  "EventDuration": "1hour",
+  "BurnedCalories": "300"
+}]
